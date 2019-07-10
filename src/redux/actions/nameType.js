@@ -1,0 +1,1 @@
+export const ACTION_SET_NAME = "ACTION_SET_NAME";
